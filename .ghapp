@@ -1,0 +1,10 @@
+{
+  "id": 35993594,
+  "created_at": "2023-04-03T01:37:47.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["cragg", "zoomerjoin"]
+}
