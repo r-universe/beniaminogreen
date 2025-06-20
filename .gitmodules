@@ -11,6 +11,9 @@
 [submodule "workwme"]
 	path = workwme
 	url = https://github.com/beniaminogreen/heroh
+[submodule "zoomerGP"]
+	path = zoomerGP
+	url = https://github.com/beniaminogreen/zoomergp
 [submodule "zoomerjoin"]
 	path = zoomerjoin
 	url = https://github.com/beniaminogreen/zoomerjoin
