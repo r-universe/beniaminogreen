@@ -5,12 +5,12 @@
 [submodule "cragg"]
 	path = cragg
 	url = https://github.com/beniaminogreen/cragg
+[submodule "ivrobustness"]
+	path = ivrobustness
+	url = https://github.com/beniaminogreen/ivrobustness
 [submodule "sparsepolicytree"]
 	path = sparsepolicytree
 	url = https://github.com/beniaminogreen/sparsepolicytree
-[submodule "workwme"]
-	path = workwme
-	url = https://github.com/beniaminogreen/heroh
 [submodule "zoomerGP"]
 	path = zoomerGP
 	url = https://github.com/beniaminogreen/zoomergp
